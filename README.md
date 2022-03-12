@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+ 
 <h1 align="center">Hi, I'm Heja</h1>
 <h3 align="center">A software developer from Samsun/Turkey</h3>
 
