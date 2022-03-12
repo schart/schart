@@ -1,29 +1,26 @@
 ### Hi there 👋
 
 <!--
-**schart/schart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Heja</h1>
+<h3 align="center">A software developer from Samsun/Turkey</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Berke
-A software developer from Samsun/Turkey
-Connect with me:
-https://www.linkedin.com/in/heja-arslan-45065020a/   Xeja#2664 
-
-
-Profile Statistics
-Xeja#2664 
-
-Xeja#2664 
-
-Xeja#2664 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/heja-arslan-45065020a/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berke-alp/" title="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://discordapp.com/users/Xeja" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Beşinci Faz#8192" title="Discord" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/hejarslan4" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@berkealpcaliskan" title="Instagram" height="30" width="40" />
+  </a>
+ 
+<br>
+<h2 align="center">Profile Statistics</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Xeja&theme=radical&hide=prs,issues" alt="berke-alp" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeja&layout=compact&theme=radical" alt="berke-alp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Xeja&label=Profile%20Views&color=0e75b6&style=flat" alt="berke-alp" /> </p>
+ 
 
