@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Berke
+A software developer from Samsun/Turkey
+Connect with me:
+https://www.linkedin.com/in/heja-arslan-45065020a/   Xeja#2664 
+
+
+Profile Statistics
+Xeja#2664 
+
+Xeja#2664 
+
+Xeja#2664 
+
