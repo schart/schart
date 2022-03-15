@@ -24,7 +24,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=schart&label=Profile%20Views&color=0e75b6&style=flat" alt="Xeja" /> </p>
  
 <h2 align = "center">I use technology</h2>
+<p align = "center">
 <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png" width="100" />
 <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bash/bash-colored.png" width="100" />
 <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.png" width="100" /> 
 <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%23/c%23.png" width="100" />
+</p>
