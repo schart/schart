@@ -10,6 +10,9 @@
        alt="snake" /></a>
 </div>
 
+#! Programming language theory
+#! Database relational, Non-relational
+#! Back-end API and other process like extensions
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,7 +30,7 @@
 <br>
 <h2 align="center">Profile Statistics</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=schart&theme=radical&hide=prs,issues" alt="Xeja" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schart&layout=compact&theme=radical" alt="Xeja" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schart&layout=compact&theme=radical" alt="Xeja"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=schart&label=Profile%20Views&color=0e75b6&style=flat" alt="Xeja" /> </p>
  
  
