@@ -10,11 +10,11 @@
        alt="snake" /></a>
 </div>
 
-<b align="center">#! Programming language theory.</b>
+<div align="center">#! Programming language theory.</div>
 <br>
-<b align="center">#! Database relational, Non-relational.</b>
+<div align="center">#! Database relational, Non-relational.</div>
 <br>
-<b align="center">#! Back-end API and other process like extensions.</b>
+<div align="center">#! Back-end API and other process like extensions.</div>
  
  
  
