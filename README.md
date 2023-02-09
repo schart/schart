@@ -10,9 +10,14 @@
        alt="snake" /></a>
 </div>
 
-#! Programming language theory
-#! Database relational, Non-relational
-#! Back-end API and other process like extensions
+<b>#! Programming language theory.</b>
+<br>
+<b>#! Database relational, Non-relational.</b>
+<br>
+<b>#! Back-end API and other process like extensions.</b>
+ 
+ 
+ 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
