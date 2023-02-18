@@ -12,7 +12,7 @@
 
 <div align="center"><b>#! Programming language theory.</b></div>
 <br>
-<div align="center"><b>#! Database relational, Non-relational.</b></div>
+<div align="center"><b>#! Database Theory relational(server), Non-relational(serverless).</b></div>
 <br>
 <div align="center"><b>#! Back-end API and other process like extensions.</b></div>
  
