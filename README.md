@@ -20,8 +20,11 @@
  
 
 <h3 align="center">Connect with me:</h3>
- [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/heja-arslan-45065020a/)
- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Xejaa)
+ <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+ (https://www.linkedin.com/in/heja-arslan-45065020a/)
+ 
+ <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+ (https://medium.com/@Xejaa)
  
 <br>
 <h2 align="center">Profile Statistics</h2>
