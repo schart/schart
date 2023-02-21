@@ -20,17 +20,8 @@
  
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/heja-arslan-45065020a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berke-alp/" title="LinkedIn" height="30" width="40" />
-  </a>
-  
-  <a href="https://discordapp.com/users/Xeja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  title="Discord" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/hejaarslan4/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Instagram" height="30" width="40" />
-  </a>
+ [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/heja-arslan-45065020a/)
+ [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Xejaa)
  
 <br>
 <h2 align="center">Profile Statistics</h2>
