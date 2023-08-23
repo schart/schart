@@ -2,7 +2,7 @@
 
  
 <h1 align="center">Hi, I'm Heja</h1>
-<h3 align="center">A software developer from Istanbul/Turkey</h3>
+<h3 align="center">A Computer scienctist from Istanbul/Turkey</h3>
 
 <div align="center">
   <a href="https://discord.gg/F6F7KgK">
