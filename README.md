@@ -3,11 +3,7 @@
 <h1 align="center">Hi, I'm Heja</h1>
 <h3 align="center">Back-end Developer from Istanbul, Turkey</h3>
 
-<div align="center">
-  <a href="https://discord.gg/F6F7KgK">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</div>
+ 
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-direction: row;">
