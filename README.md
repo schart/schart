@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi, I'm Heja</h1>
-<h3 align="center">Back-end Developer from Istanbul, Turkey</h3>
+<h1 align="center">Hi, I am Heja</h1>
+<h3 align="center">Backend Developer from Istanbul, Turkey</h3>
 
  
 
