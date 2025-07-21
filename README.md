@@ -12,10 +12,6 @@
         <img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;" align="center">
       </a>
     </div>    
-    <div style="margin-left: 50%;">
-      <a href="https://medium.com/@Xejaa" rel="nofollow">
-        <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;" align="center">
-      </a>
-    </div>
+     
   </div>
 </div>
