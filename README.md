@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi, I am Heja</h1>
-<h3 align="center">Independent Software Developer | TypeScript / NestJS | Compiler & System Design from Turkey</h3>
+<h3 align="center">Software Developer & System Design from Turkey</h3>
 
  
 
