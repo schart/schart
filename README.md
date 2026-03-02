@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Heja 🥱</h1>
+<h1 align="center">Hey, I'm Heja 👋</h1>
 
 <p align="center">
   <strong>Backend Developer · System Architecture · Turkey</strong>
@@ -23,15 +23,18 @@
 - **Notification & event-driven systems** — GraphQL, RabbitMQ, async pipelines
 - **Project management tooling** — full-stack apps inspired by Jira/Atlassian
 - **Infrastructure & monitoring** — real-time uptime, time-series metrics, and liveness tracking
+- **Betting & odds systems** — sports betting architecture, odds calculation, and risk management
 
 ---
 
 ## 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -73,6 +76,12 @@
 - **Pinecone** for vector search (AI-powered source/provider matching)
 - **Stripe** for payment/affiliate monetization layer
 - Custom **parser & lexer** powering the flexible query engine (also seen in FlexQL)
+
+---
+
+## 🎰 Domain Knowledge
+
+Beyond code, I have hands-on knowledge of **betting system architecture** — including odds engines, risk/liability management, settlement flows, and real-time event feeds. I understand how sportsbooks are built from the backend up.
 
 ---
 
