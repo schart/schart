@@ -1,5 +1,5 @@
 <h1 align="center">Heja Arslan</h1>
-<h3 align="center">Backend Engineer · Turkey</h3>
+<h3 align="center">AI Backend Engineer · Turkey</h3>
 
 <p align="center">
   I build backend systems that handle real complexity — custom query engines, event-driven pipelines,<br/>
@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="/cdn-cgi/l/email-protection#d4bcb1beb594b1acb5b9a4b8b1fab7bbb9">
-    <img alt="Email" src="https://img.shields.io/badge/Email-heja%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/arslanheja202@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
