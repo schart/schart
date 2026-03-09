@@ -11,7 +11,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:heja@example.com">
+  <a href="/cdn-cgi/l/email-protection#d4bcb1beb594b1acb5b9a4b8b1fab7bbb9">
     <img alt="Email" src="https://img.shields.io/badge/Email-heja%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -103,11 +103,16 @@ GraphQL API, RabbitMQ event bus, Prisma ORM, Docker deployment. Demonstrates the
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schart&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=schart&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schart&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=schart&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  Open to backend, infrastructure, or systems engineering roles · Remote or Turkey
-</p>
+  Open to backend, infrastructure, or systems engi
