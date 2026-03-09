@@ -1,90 +1,113 @@
-<h1 align="center">Hey, I'm Heja 👋</h1>
+<h1 align="center">Heja Arslan</h1>
+<h3 align="center">Backend Engineer · Turkey</h3>
 
 <p align="center">
-  <strong>Backend Developer · System Architecture · Turkey</strong>
-</p>
-
-<p align="center">
-  I build robust backend systems and developer tooling — from query languages to real-time monitoring.
-  Passionate about clean architecture, scalable infrastructure, and shipping fast.
+  I build backend systems that handle real complexity — custom query engines, event-driven pipelines,<br/>
+  real-time monitoring, and scalable infrastructure. I ship fast and care about clean architecture.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heja-arslan-45065020a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:heja@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-heja%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 What I Work On
+## 👨‍💻 About Me
 
-- **Query engines & DSLs** — building flexible, secure data access layers with custom parsers & lexers
-- **Notification & event-driven systems** — GraphQL, RabbitMQ, async pipelines
-- **Project management tooling** — full-stack apps inspired by Jira/Atlassian
-- **Infrastructure & monitoring** — real-time uptime, time-series metrics, and liveness tracking
-- **Betting & odds systems** — sports betting architecture, odds calculation, and risk management
+Backend developer with hands-on experience across the full lifecycle of production systems — from designing data access layers to deploying async messaging pipelines and CDN infrastructure.
+
+- 🔧 I specialize in **TypeScript / Node.js / NestJS** for scalable backend services
+- 🧠 I've built a **custom query language (DSL)** with parser & lexer from scratch — used in production
+- 📡 Comfortable with **event-driven architecture**: RabbitMQ, async ingestion pipelines, GraphQL subscriptions
+- ☁️ Deployed on **AWS (CloudFront)**, containerized with **Docker**, instrumented with **InfluxDB**
+- 🎰 Domain knowledge in **betting system architecture**: odds engines, risk/liability management, settlement flows
 
 ---
 
 ## 🛠 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend & Frameworks**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Databases & ORMs**
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Infrastructure & Payments**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-| Project | Description |
-|---|---|
-| [**FlexQL**](https://github.com/schart/FlexQL) | A secure, extensible query language for flexible data filtering — built with a custom parser & lexer, no complex SQL or ORM needed. ⭐ 22 |
-| [**FreeFlix**](https://freeflix-frontend.vercel.app/) | Free streaming aggregator that finds and links cheapest/free sources for movies & series. Built with NestJS, RabbitMQ, CloudFront & Pinecone. |
-| [**NotiFlow**](https://github.com/schart/NotiFlow) | Full-stack notification service built in 4 days with GraphQL, RabbitMQ, Prisma & Docker. |
-| [**TaskSphere**](https://github.com/schart/TaskSphere) | Jira-inspired project management app with Todo / In Progress / Review / Done workflows. |
-| [**uptime-livenliness**](https://github.com/schart/uptime-livenliness) | Real-time uptime data monitoring service. |
+### [FlexQL](https://github.com/schart/FlexQL) ⭐ 22
+> **Custom query language (DSL)** for flexible, secure data filtering — built without heavy SQL or ORM abstractions.
 
----
+Built a full parser & lexer from scratch. Designed for developer ergonomics: expressive syntax, safe execution, and easy integration into any Node.js backend. Demonstrates deep understanding of language design and compiler fundamentals.
 
-## 🎬 FreeFlix
-
-> **Free streaming aggregator** — find and watch popular movies & series by linking to the cheapest available source.
-> 🔗 [freeflix-frontend.vercel.app](https://freeflix-frontend.vercel.app/)
-
-**Core features:**
-- 🎥 Browse & search movies and series
-- 🔍 Filter by source (Netflix, Disney+, etc.) or title
-- 🎡 "Handwheel" — randomized movie discovery
-- 🔗 Direct links to streaming sources (affiliate integration in progress)
-
-**Tech highlights:**
-- **NestJS** backend with modular architecture
-- **RabbitMQ** for async/delayed content ingestion pipeline
-- **AWS CloudFront** for CDN & edge delivery
-- **InfluxDB** for time-series metrics & analytics
-- **Pinecone** for vector search (AI-powered source/provider matching)
-- **Stripe** for payment/affiliate monetization layer
-- Custom **parser & lexer** powering the flexible query engine (also seen in FlexQL)
+**Stack:** TypeScript · Custom Parser/Lexer
 
 ---
 
-## 🎰 Domain Knowledge
+### [FreeFlix](https://freeflix-frontend.vercel.app/)
+> **Streaming aggregator** that surfaces free and cheapest available sources for movies & series.
 
-Beyond code, I have hands-on knowledge of **betting system architecture** — including odds engines, risk/liability management, settlement flows, and real-time event feeds. I understand how sportsbooks are built from the backend up.
+End-to-end system: async content ingestion via RabbitMQ, edge delivery via CloudFront, AI-powered source matching via Pinecone vector search, time-series analytics in InfluxDB, and a Stripe monetization layer. The query engine under the hood is powered by the same parser built for FlexQL.
+
+**Stack:** NestJS · RabbitMQ · AWS CloudFront · InfluxDB · Pinecone · Stripe
+
+---
+
+### [NotiFlow](https://github.com/schart/NotiFlow)
+> **Full-stack notification service** — built and shipped end-to-end in 4 days.
+
+GraphQL API, RabbitMQ event bus, Prisma ORM, Docker deployment. Demonstrates the ability to move fast without cutting corners on architecture.
+
+**Stack:** GraphQL · RabbitMQ · Prisma · Docker
+
+---
+
+### [TaskSphere](https://github.com/schart/TaskSphere)
+> **Jira-inspired project management tool** with kanban-style workflow (Todo → In Progress → Review → Done).
+
+**Stack:** NestJS · TypeScript
+
+---
+
+### [uptime-liveness](https://github.com/schart/uptime-livenliness)
+> **Real-time uptime monitoring service** — tracks service health and liveness over time.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schart&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schart&show_icons=true&theme=tokyonight&hide_border=true" />
+  Open to backend, infrastructure, or systems engineering roles · Remote or Turkey
 </p>
