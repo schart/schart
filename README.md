@@ -61,7 +61,7 @@ Backend developer with hands-on experience across the full lifecycle of producti
 
 ## 📌 Projects
 
-### [FlexQL](https://github.com/schart/FlexQL) ⭐ 25
+### [FlexQL](https://github.com/schart/FlexQL) ⭐ 30
 > **Custom query language (DSL)** for flexible, secure data filtering — built without heavy SQL or ORM abstractions.
 
 Built a full parser & lexer from scratch. Designed for developer ergonomics: expressive syntax, safe execution, and easy integration into any Node.js backend. Demonstrates deep understanding of language design and compiler fundamentals.
