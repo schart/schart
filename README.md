@@ -46,6 +46,25 @@ I enjoy understanding not only how systems work, but also how they behave under 
 
 ## Selected Engineering Work
 
+### ilanolustur.com
+
+[ilanolustur.com](https://ilanolustur.com)
+
+A real-estate content automation platform designed to turn property information and media into ready-to-publish listing content.
+
+**Engineering areas**
+
+* Backend architecture
+* Media processing pipelines
+* Automated content generation
+* File and asset processing
+* External service integrations
+* Production-oriented application design
+
+**Stack:** TypeScript · Node.js · Media Processing
+
+---
+
 ### FlexQL
 
 [github.com/schart/FlexQL](https://github.com/schart/FlexQL)
@@ -85,48 +104,6 @@ The backend architecture uses independent components for ingestion, messaging, s
 
 **Stack:** NestJS · RabbitMQ · Pinecone · InfluxDB · AWS CloudFront
 
----
-
-### NotiFlow
-
-[github.com/schart/NotiFlow](https://github.com/schart/NotiFlow)
-
-A notification service built around asynchronous message processing.
-
-**Engineering areas**
-
-* GraphQL API design
-* Message-driven architecture
-* RabbitMQ event processing
-* Database persistence
-* Containerized deployment
-
-**Stack:** TypeScript · GraphQL · RabbitMQ · Prisma · Docker
-
----
-
-### uptime-liveness
-
-[github.com/schart/uptime-livenliness](https://github.com/schart/uptime-livenliness)
-
-A service-health monitoring project focused on tracking application availability and liveness.
-
-**Engineering areas**
-
-* Health checking
-* Service monitoring
-* Availability tracking
-* Reliability engineering fundamentals
-
----
-
-### TaskSphere
-
-[github.com/schart/TaskSphere](https://github.com/schart/TaskSphere)
-
-A project-management backend implementing task and workflow management concepts.
-
-**Stack:** NestJS · TypeScript
 
 ---
 
