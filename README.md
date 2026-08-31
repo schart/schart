@@ -1,128 +1,162 @@
 <h1 align="center">Heja Arslan</h1>
-<h3 align="center">AI Infrastructure Engineer · Turkey</h3>
+
+<h3 align="center">
+Backend Engineer · TypeScript / Node.js · Reliability & Distributed Systems
+</h3>
 
 <p align="center">
-  I build the infrastructure that makes AI systems run in production —<br/>
-  pipelines, vector search, event-driven ingestion, and scalable backends that don't break under load.
+I build backend systems with a focus on asynchronous processing, data pipelines,
+system reliability, and maintainable architecture.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heja-arslan-45065020a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"
+    />
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#365744455a57585e535c5704060476515b575f5a1855595b">
-    <img alt="Email" src="https://img.shields.io/badge/arslanheja202@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:arslanheja202@gmail.com">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"
+    />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-AI Infrastructure engineer focused on building the systems that sit beneath AI products — the data pipelines, vector stores, async workers, and query engines that make intelligence scalable and reliable.
+I'm a backend engineer working primarily with **TypeScript, Node.js and NestJS**.
 
-- 🧠 Built a **custom DSL (query language)** with parser & lexer from scratch — used in production
-- 📡 **Event-driven pipelines**: RabbitMQ, async ingestion, GraphQL subscriptions
-- 🔍 **Vector search & AI retrieval**: Pinecone, embedding pipelines, semantic matching
-- ☁️ Deployed on **AWS (CloudFront)**, containerized with **Docker**, time-series with **InfluxDB**
-- 🔧 Core stack: **TypeScript / Node.js / NestJS** — ships fast, stays clean
-- 🌍 Open source contributor — [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/3409)
+My engineering interests are centered around:
 
----
+* Distributed and event-driven systems
+* Message queues and asynchronous workloads
+* Backend architecture and API design
+* Data ingestion and processing pipelines
+* Reliability, observability and production systems
+* Search and retrieval infrastructure
 
-## 🛠 Tech Stack
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Backend & Frameworks**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**AI Infrastructure**
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+I enjoy understanding not only how systems work, but also how they behave under failure, load and operational complexity.
 
 ---
 
-## 🌍 Open Source
+## Selected Engineering Work
 
-| Project | Role | |
-|---|---|---|
-| [FlexQL](https://github.com/schart/FlexQL) | Author & Maintainer | ⭐ 30 |
-| [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/3409) | Contributor | ⭐ 2.7k |
+### FlexQL
 
----
+[github.com/schart/FlexQL](https://github.com/schart/FlexQL)
 
-## 📌 Projects
+A custom query language designed for flexible and controlled data filtering.
 
-### [FlexQL](https://github.com/schart/FlexQL) ⭐ 30
-> **Custom query language (DSL)** for flexible, secure data filtering — built without heavy SQL or ORM abstractions.
+Implemented the language processing pipeline from scratch, including lexical analysis and parsing.
 
-Full parser & lexer from scratch. Expressive syntax, safe execution, easy integration into any Node.js backend. Demonstrates deep understanding of language design and compiler fundamentals.
+**Engineering areas**
 
-**Stack:** TypeScript · Custom Parser/Lexer
+* DSL design
+* Lexer and parser implementation
+* Query processing
+* TypeScript library design
+* Backend integration
 
----
-
-### [FreeFlix](https://freeflix-frontend.vercel.app/)
-> **AI-powered streaming aggregator** — surfaces free and cheapest available sources for movies & series.
-
-Async content ingestion via RabbitMQ, edge delivery via CloudFront, semantic source matching via Pinecone vector search, time-series analytics in InfluxDB, Stripe monetization. Query engine powered by FlexQL.
-
-**Stack:** NestJS · RabbitMQ · AWS CloudFront · InfluxDB · Pinecone · Stripe
+**Stack:** TypeScript
 
 ---
 
-### [NotiFlow](https://github.com/schart/NotiFlow)
-> **Full-stack notification service** — built and shipped end-to-end in 4 days.
+### FreeFlix
 
-GraphQL API, RabbitMQ event bus, Prisma ORM, Docker deployment.
+[freeflix-frontend.vercel.app](https://freeflix-frontend.vercel.app/)
 
-**Stack:** GraphQL · RabbitMQ · Prisma · Docker
+A streaming-source aggregation platform built around asynchronous content processing and search.
+
+The backend architecture uses independent components for ingestion, messaging, search and analytics.
+
+**Engineering areas**
+
+* Event-driven ingestion
+* RabbitMQ-based asynchronous processing
+* Semantic retrieval with vector search
+* Edge content delivery
+* Time-series analytics
+* External service integrations
+
+**Stack:** NestJS · RabbitMQ · Pinecone · InfluxDB · AWS CloudFront
 
 ---
 
-### [TaskSphere](https://github.com/schart/TaskSphere)
-> **Jira-inspired project management tool** with kanban workflow (Todo → In Progress → Review → Done).
+### NotiFlow
+
+[github.com/schart/NotiFlow](https://github.com/schart/NotiFlow)
+
+A notification service built around asynchronous message processing.
+
+**Engineering areas**
+
+* GraphQL API design
+* Message-driven architecture
+* RabbitMQ event processing
+* Database persistence
+* Containerized deployment
+
+**Stack:** TypeScript · GraphQL · RabbitMQ · Prisma · Docker
+
+---
+
+### uptime-liveness
+
+[github.com/schart/uptime-livenliness](https://github.com/schart/uptime-livenliness)
+
+A service-health monitoring project focused on tracking application availability and liveness.
+
+**Engineering areas**
+
+* Health checking
+* Service monitoring
+* Availability tracking
+* Reliability engineering fundamentals
+
+---
+
+### TaskSphere
+
+[github.com/schart/TaskSphere](https://github.com/schart/TaskSphere)
+
+A project-management backend implementing task and workflow management concepts.
 
 **Stack:** NestJS · TypeScript
 
 ---
 
-### [uptime-liveness](https://github.com/schart/uptime-livenliness)
-> **Real-time uptime monitoring service** — tracks service health and liveness over time.
+## Open Source
+
+| Project                                                                                                   | Contribution        |
+| --------------------------------------------------------------------------------------------------------- | ------------------- |
+| [FlexQL](https://github.com/schart/FlexQL)                                                                | Author & Maintainer |
+| [vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/3409) | Contributor         |
 
 ---
 
-## 📊 GitHub Stats
+## Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schart&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schart&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Backend**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=schart&theme=tokyonight&hide_border=true" />
-</p>
+`TypeScript` · `Node.js` · `NestJS` · `GraphQL`
 
----
+**Messaging & Distributed Systems**
 
-<p align="center">
-  Open to AI infrastructure
+`RabbitMQ` · `Event-driven architecture` · `Async processing`
+
+**Data**
+
+`Prisma` · `Sequelize` · `InfluxDB` · `Pinecone`
+
+**Infrastructure**
+
+`Docker` · `AWS CloudFront`
+
+**Currently focusing on**
+
+`System Reliability` · `Observability` · `Distributed Systems` · `SRE`
